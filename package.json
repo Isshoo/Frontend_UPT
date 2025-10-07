@@ -8,8 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "type-check": "tsc --noEmit",
-    "format": "prettier --write ./src/**/*.{ts,tsx,js,jsx,json,md}",
-    "format:check": "prettier --check ./src/**/*.{ts,tsx,js,jsx,json,md}",
+    "format": "prettier --write ./src/**/*.{ts,tsx,js,jsx,json,md,css}",
+    "format:check": "prettier --check ./src/**/*.{ts,tsx,js,jsx,json,md,css}",
     "test": "echo \"No tests specified\" && exit 0"
   },
   "dependencies": {
